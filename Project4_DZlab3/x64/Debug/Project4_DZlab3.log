@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Михаил\source\repos\Project4_DZlab3\Project4_DZlab3\Source.c(7,2): warning C4013: lab_2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Михаил\source\repos\Project4_DZlab3\Project4_DZlab3\Source.c(19,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Михаил\source\repos\Project4_DZlab3\Project4_DZlab3\Source.c(21,2): warning C4013: vklad: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Михаил\source\repos\Project4_DZlab3\Project4_DZlab3\Source.c(22,2): warning C4098: main: функция типа "void", возвращающая значение
+  Project4_DZlab3.vcxproj -> C:\Users\Михаил\source\repos\Project4_DZlab3\x64\Debug\Project4_DZlab3.exe
